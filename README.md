@@ -1,4 +1,4 @@
-# ⚙️ SUDOKU
+# ⚙️ PROJETO SUDOKU
  
 ## 📜 Descrição
 Este repositório contém o conteúdo  de um jogo desenvolvido chamado SUDOKU no 6º Semestre de Ciência da Computação no UDF.  
