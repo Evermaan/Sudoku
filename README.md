@@ -41,5 +41,7 @@ Nossa linguagem utilizada foi Python.
    -  O jogador deve preencher as células restantes, sem violar as regras de que cada número aparece uma vez por linha, coluna e quadrante.
    -  A resolução é feita por tentativa e erro, lógica dedutiva e, em alguns casos, algoritmos complexos, mas em um jogo básico, o processo é puramente lógico.
    -  O objetivo final é preencher todas as células do tabuleiro de forma que as regras sejam respeitadas.
+- 🎬 **Link para vídeo do jogo**:
+   -  https://www.youtube.com/watch?v=xJhuOtLokvg
 
 
