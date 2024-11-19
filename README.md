@@ -6,9 +6,9 @@ Nossa linguagem utilizada foi Python.
 
 ## 👥 Participantes
 - 👩‍🏫 Profesora Kadidja Valéria
-- 👤 Everman | RGM: 30333717
-- 👤 Ícaro | RGM: 31335519
-- 👤 Daniel Medeiros | RGM: 29381169
+- 👤 Everman | RGM: 30333717 | Desenvolvimento da lógica e algoritmos
+- 👤 Ícaro | RGM: 31335519 | Design e Interface do usuário + repositório
+- 👤 Daniel Medeiros | RGM: 29381169 | Integração, testes e funcionalidades
 
 
 ## 📘 SUDOKU
